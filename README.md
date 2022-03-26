@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 
 - 搭建基础展示页面，基础的```HTML```页面，使用```nginx```或```apache```部署到服务器
 - 在```vue-element-admin``` [https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)基础之上构建管理系统
-- 将```y-shell``` [https://github.com/ZhangLe1993/y-shell]()功能融入到```vue-element-admin```
+- 将```y-shell``` [https://github.com/ZhangLe1993/y-shell]( https://github.com/ZhangLe1993/y-shell)功能融入到```vue-element-admin```
 
 
 ---
