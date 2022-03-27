@@ -2,6 +2,9 @@
 
 ----
 
+>结合下图使用
+![](基于超级计算平台的SaaS平台.png)
+
 ### 韩宇航
 
 - 熟悉一下```CentOS```操作
@@ -43,16 +46,27 @@ int main(int argc, char** argv) {
 
 ### 杨瑞
 
-- 搭建基础展示页面，基础的```HTML```页面，使用```nginx```或```apache```部署到服务器
+- 搭建基础展示页面，基础的```HTML```页面，使用```nginx```或~~apache~~部署到服务器
 - 在```vue-element-admin``` [https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)基础之上构建管理系统
-- 将```y-shell``` [https://github.com/ZhangLe1993/y-shell]()功能融入到```vue-element-admin```
+- 将```y-shell``` [https://github.com/ZhangLe1993/y-shell]( https://github.com/ZhangLe1993/y-shell)功能融入到```vue-element-admin```
+- 整理问卷结果,与[石佳怡](#石佳怡),[季春晓](#季春晓)一起完成
 
 
 ---
 
 ### 季春晓
 
-- 了解一些企业中常见的问题，如盈利渠道、成本控制、风险规避
 - 参考阿里云文档 [https://www.aliyun.com/product/scc](https://www.aliyun.com/product/scc)与腾讯云文档 [https://cloud.tencent.com/product/thpc](https://cloud.tencent.com/product/thpc)，撰写```项目介绍```
-- 整理问卷结果
+- 整理问卷结果,与[石佳怡](#石佳怡),[杨瑞](#杨瑞)一起完成
+
+
+### 石佳怡
+
+- 制定公司初步战略
+- 了解一些企业中常见的问题，如盈利渠道、成本控制、风险规避
+- 整理问卷结果,与[季春晓](#季春晓),[杨瑞](#杨瑞)一起完成
+
+
+
+
 
